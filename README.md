@@ -21,6 +21,16 @@ literature and history (Capitu, Tiradentes, Dom Pedro I) and from the classics
 **[Linkato](https://linkato.com.br)**: AI analysis of LinkedIn profiles.
 Vercel serverless, Upstash Redis, Resend email, Hotmart payment webhook.
 
+## Systems in production at a public school
+
+As director of a public secondary school in Brazil (~1,750 students), I built and ran:
+
+- **Sistema Alcina**: RFID access control integrated with the WhatsApp Business API,
+  notifying families in real time, with a web admin panel (Python, Streamlit).
+- **Copa Alcina**: a World Cup prediction game that brought 779 students closer to
+  math: 3,623 predictions, with statistics questions built on live tournament data
+  so that pasting them into a chatbot wouldn't solve them.
+
 ## Now building
 
 **Olhar**: an AI that learns one photographer's eye. It culls a trip, explains its choices
